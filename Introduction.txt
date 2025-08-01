@@ -1,0 +1,29 @@
+Introduction to Git
+Git is a powerful and popular version control system used to track changes in your code and collaborate with others. It helps you manage different versions of your files, restore earlier versions, and work with teammates on shared projects efficiently.
+
+Why Use Git?
+Track changes: Every modification made to your files is recorded, which helps you review history and revert to previous versions if needed.
+
+Backup: By pushing your code to a remote repository (like GitHub), you have an online backup.
+
+Collaboration: Multiple people can work on the same project, merge changes, and resolve conflicts smoothly.
+
+Key Concepts
+Repository: A folder tracked by Git, containing your project files and history.
+
+Commit: A saved snapshot of your project.
+
+Branch: A separate line of development, allowing you to try changes safely.
+
+Remote: A copy of your repository stored online (often on GitHub).
+
+How It Works
+Initialize: Create a local git repository in your project folder.
+
+Stage and Commit: Track changes and save milestone versions.
+
+Connect to Remote: Link your local repository to GitHub or another service.
+
+Push: Upload your changes to the remote repository.
+
+Pull: Download updates made by others from the remote repository.
